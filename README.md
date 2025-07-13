@@ -37,6 +37,32 @@ This repository includes personal notes, hands-on labs, and mini-projects focuse
 - SQL for investigations  
 - Splunk (SIEM)  
 - Debugging and Stakeholder Communication  
+### 📢 Newly Completed Course:  
+**6. Sound the Alarm: Detection and Response**  
+*Completed: 13 July 2025*  
+[Verification Certificate](https://www.coursera.org/account/accomplishments/verify/8YUPILV4JIA4)
+
+**Skills Gained:**  
+- Intrusion Detection and Prevention  
+- Computer Security Incident Management  
+- Cyber Threat Hunting  
+- Network Protocols  
+- Incident Management  
+- Technical Documentation  
+- Network Analysis  
+- Document Management  
+- Cybersecurity Fundamentals  
+- TCP/IP  
+- Continuous Monitoring  
+- Security Information and Event Management (SIEM)  
+- Threat Detection  
+- Incident Response  
+- Event Monitoring  
+- Network Security  
+- Splunk
+- Google SecOps
+- Suricata
+- Network Monitoring  
 
 ---
 
