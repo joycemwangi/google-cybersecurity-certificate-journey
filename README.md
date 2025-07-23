@@ -75,7 +75,7 @@ To manage access control within my organization, I developed a Python script tha
 - Can be scheduled as a daily cron job  
 
 📁 **Project Location:**  
-`/projects/ip-allowlist-cleaner/`  
+`/projects/Update-a-file-through-a-Python-algorithm`  
 
 ---
 
