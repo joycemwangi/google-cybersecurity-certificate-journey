@@ -21,7 +21,7 @@ It includes personal notes, hands-on labs, and mini-projects focused on:
 - Cybersecurity controls including hardening, monitoring, and access control  
 - Leveraging SIEM tools like **Splunk** to detect and analyze security events  
 - Practical skills using Python, Linux CLI, and SQL for threat analysis
-- Python automations for DevSecOps tasks, including IP allow list management.
+- Python automations for CI/CD pipelines and DevSecOps tasks.
 
 ---
 
