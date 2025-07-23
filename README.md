@@ -20,7 +20,8 @@ It includes personal notes, hands-on labs, and mini-projects focused on:
 - Common threats, vulnerabilities, and how to mitigate them  
 - Cybersecurity controls including hardening, monitoring, and access control  
 - Leveraging SIEM tools like **Splunk** to detect and analyze security events  
-- Practical skills using Python, Linux CLI, and SQL for threat analysis  
+- Practical skills using Python, Linux CLI, and SQL for threat analysis
+- Python automations for DevSecOps tasks, including IP allow list management.
 
 ---
 
@@ -62,7 +63,8 @@ It includes personal notes, hands-on labs, and mini-projects focused on:
 
 ## 🤖 Mini Project Highlight
 
-### 🐍 IP Allow List Automation Script
+### 🐍 Python automations for DevSecOps tasks, including IP allow list management.
+IP Allow List Automation Script
 
 To manage access control within my organization, I developed a Python script that automates maintenance of an `allow_list.txt` file.
 
