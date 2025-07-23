@@ -5,11 +5,12 @@ It includes personal notes, hands-on labs, and mini-projects focused on:
 
 - 🔍 Threat Detection & Incident Response  
 - 🛡️ Security Information and Event Management (SIEM) with **Splunk**  
-- 🐧 Linux system commands and security  
-- 🐍 Python and Bash scripting  
+- 🐧 Linux System Commands and Security  
+- 🐍 Python Automations  
+- 💻 Bash Scripting Automations  
 - 🧠 Risk Management & Cybersecurity Fundamentals  
 - 🗄️ SQL for Security Analysis  
-- 🔗 Network Security & Protocols  
+- 🔗 Network Security & Protocols
 
 ---
 
@@ -29,10 +30,12 @@ It includes personal notes, hands-on labs, and mini-projects focused on:
 - Cyber Attacks & Incident Response  
 - Risk Management & Security Controls  
 - Network Security & Protocols  
-- Vulnerability Management & System Hardening  
+- Vulnerability Management & System Hardening
+- Python Automations  
 
 **Technical Skills:**  
-- Python & Bash scripting  
+- Python Automations  
+- Bash scripting  
 - Linux command-line tools  
 - SQL for forensic investigations  
 - Splunk (SIEM) and alerting  
