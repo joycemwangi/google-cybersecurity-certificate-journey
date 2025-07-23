@@ -1,11 +1,11 @@
 # 🎓 Google Cybersecurity Certificate Journey
 
-My learning journey through the **Google Cybersecurity Certificate** on Coursera.  
-This repository includes personal notes, hands-on labs, and mini-projects focused on:
+This repository documents my learning journey through the **Google Cybersecurity Certificate** on Coursera.  
+It includes personal notes, hands-on labs, and mini-projects focused on:
 
 - 🔍 Threat Detection & Incident Response  
-- 🛡️ Security Information and Event Management (SIEM) using **Splunk**  
-- 🐧 Linux commands and system security  
+- 🛡️ Security Information and Event Management (SIEM) with **Splunk**  
+- 🐧 Linux system commands and security  
 - 🐍 Python and Bash scripting  
 - 🧠 Risk Management & Cybersecurity Fundamentals  
 - 🗄️ SQL for Security Analysis  
@@ -15,61 +15,69 @@ This repository includes personal notes, hands-on labs, and mini-projects focuse
 
 ## 📘 What I Learned
 
-- The importance of cybersecurity in protecting organizational data and systems  
-- Identification of common threats, risks, and vulnerabilities  
-- Techniques to mitigate attacks through hardening, access controls, and monitoring  
-- Using SIEM tools like Splunk to detect and analyze threats  
-- Hands-on experience with Python, Linux CLI, and SQL queries
+- The critical role of cybersecurity in protecting organizational data and systems  
+- Common threats, vulnerabilities, and how to mitigate them  
+- Cybersecurity controls including hardening, monitoring, and access control  
+- Leveraging SIEM tools like **Splunk** to detect and analyze security events  
+- Practical skills using Python, Linux CLI, and SQL for threat analysis  
 
 ---
 
 ## 🛠️ Skills Gained
 
 **Cybersecurity Domains:**  
-- Cyber Attacks & Incident Management  
+- Cyber Attacks & Incident Response  
 - Risk Management & Security Controls  
 - Network Security & Protocols  
-- Vulnerability Management & Hardening  
+- Vulnerability Management & System Hardening  
 
 **Technical Skills:**  
-- Python, Bash (scripting)  
-- Linux command-line  
-- SQL for investigations  
-- Splunk (SIEM)  
-- Debugging and Stakeholder Communication  
-### 📢 Newly Completed Course:  
-**6. Sound the Alarm: Detection and Response**  
-*Completed: 13 July 2025*  
-[Verification Certificate](https://www.coursera.org/account/accomplishments/verify/8YUPILV4JIA4)
-
-**Skills Gained:**  
-- Intrusion Detection and Prevention  
-- Computer Security Incident Management  
-- Cyber Threat Hunting  
-- Network Protocols  
-- Incident Management  
-- Technical Documentation  
-- Network Analysis  
-- Document Management  
-- Cybersecurity Fundamentals  
-- TCP/IP  
-- Continuous Monitoring  
-- Security Information and Event Management (SIEM)  
-- Threat Detection  
-- Incident Response  
-- Event Monitoring  
-- Network Security  
-- Splunk
-- Google SecOps
-- Suricata
-- Network Monitoring  
+- Python & Bash scripting  
+- Linux command-line tools  
+- SQL for forensic investigations  
+- Splunk (SIEM) and alerting  
+- Debugging and stakeholder reporting  
 
 ---
 
-## 📁 Repo Structure
+### 📢 Recently Completed Course  
+**6. Sound the Alarm: Detection and Response**  
+🗓️ *Completed: 13 July 2025*  
+🔗 [View Certificate](https://www.coursera.org/account/accomplishments/verify/8YUPILV4JIA4)
+
+**Skills Covered:**  
+- Intrusion Detection & Prevention  
+- Cyber Threat Hunting  
+- Incident Response Lifecycle  
+- SIEM Monitoring with Splunk  
+- Suricata & Google SecOps  
+- TCP/IP and Network Protocols  
+- Technical Documentation & Reporting  
+- Continuous Monitoring & Event Correlation  
+
+---
+
+## 🤖 Mini Project Highlight
+
+### 🐍 IP Allow List Automation Script
+
+To manage access control within my organization, I developed a Python script that automates maintenance of an `allow_list.txt` file.
+
+🔧 **Features:**  
+- Reads from both the allow list and a remove list  
+- Automatically removes outdated IPs  
+- Outputs an updated allow list  
+- Can be scheduled as a daily cron job  
+
+📁 **Project Location:**  
+`/projects/ip-allowlist-cleaner/`  
+
+---
+
+## 📁 Repository Structure
 
 ```text
-/notes/          → Course notes and summaries  
-/labs/           → Screenshots and reports from hands-on labs  
-/projects/       → Practice case studies and mini-projects  
-/resources/      → Curated articles, cheat sheets, and tool links  
+/notes/          → Course notes and key takeaways  
+/labs/           → Hands-on lab screenshots and summaries  
+/projects/       → Mini-projects and use-case implementations  
+/resources/      → Reference guides, articles, and cheat sheets  
